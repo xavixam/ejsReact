@@ -1,0 +1,6 @@
+1.2. Crea una página de un restaurante
+Crea una página de un restaurante con React.
+Debe contener al menos un componente “Home” & “Header”
+
+En el componente Home debes pintar el siguiente array:
+Dicho array le llegará por props del componente padre.
